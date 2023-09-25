@@ -1,0 +1,6 @@
+python 3.11.3
+poetry 1.4.2
+terraform 1.5.4
+gohugo extended_0.119.0
+golang 1.18.10
+awscli 2.13.4
